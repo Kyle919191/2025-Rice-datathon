@@ -8,24 +8,24 @@ Brain Data -> Machine Learning Model (XGBoost) -> Prediction of Psychiatric Diso
 
 # Summary of Files
 
-main.ipynb - Code for building the model of the project
-Metrics_MultiClass.ipynb - Code for running the benchmarks for the different datasets
-Neurotech@Rice Challenge Document 2025 Rice Datathon.pdf - Challenge Document specifying what the outputs should be
+ - main.ipynb - Code for building the model of the project
+ - Metrics_MultiClass.ipynb - Code for running the benchmarks for the different datasets
+ - Neurotech@Rice Challenge Document 2025 Rice Datathon.pdf - Challenge Document specifying what the outputs should be
 
 INPUTS:
-Test_Set_EEG.csv - EEG data that DO NOT contain any specific disorders. This is only used to judge the output of the final model
-Train_and_Validate_EEG.csv - EEG data with main and specific disorders
-final_dataset_train_all.csv - injected data from referenced github
-final_dataset_train_all.csv - injected data from referenced github
+ - Test_Set_EEG.csv - EEG data that DO NOT contain any specific disorders. This is only used to judge the output of the final model
+ - Train_and_Validate_EEG.csv - EEG data with main and specific disorders
+ - final_dataset_train_all.csv - injected data from referenced github
+ - final_dataset_train_all.csv - injected data from referenced github
 
 OUTPUTS:
 output.csv
 
 
-**Team Upper Bound Loss**
+# Team Upper Bound Loss
 
-Kyle Zhang
-Jv Kyle Eclarin
+Kyle Zhang,
+Jv Kyle Eclarin,
 Damon Spencer
 
 
